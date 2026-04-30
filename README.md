@@ -159,7 +159,7 @@ function checkQuiz() {
         result.className = 'try-again';
         result.innerHTML += "<br>Keep reading the lesson and try again! 📚";
     }
-    window.scrollTo({ to:down 0, behavior: 'smooth' });
+    window.scrollTo({ to⬇️, behavior: 'smooth' });
 }
 </script>
 </body>
