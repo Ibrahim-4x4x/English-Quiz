@@ -1,6 +1,5 @@
 # English-Quiz
-Test
-<T.Ibrahim>
+T.Ibrahim
 <html lang="en">
 <head>
     <meta charset="UTF-8">
